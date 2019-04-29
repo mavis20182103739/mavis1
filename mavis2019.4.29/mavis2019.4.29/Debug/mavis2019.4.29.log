@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  mavis2019.4.29.cpp
+c:\users\hp301\desktop\mavis2019.4.29\mavis2019.4.29\mavis2019.4.29.cpp(7): warning C4305: “初始化”: 从“double”到“float”截断
+  mavis2019.4.29.vcxproj -> C:\Users\HP301\Desktop\mavis2019.4.29\Debug\mavis2019.4.29.exe
+  mavis2019.4.29.vcxproj -> C:\Users\HP301\Desktop\mavis2019.4.29\Debug\mavis2019.4.29.pdb (Full PDB)
